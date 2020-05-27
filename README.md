@@ -21,8 +21,6 @@
 
 [阿里笔试题20200506](https://blog.csdn.net/chicken3wings/article/details/105962415)
 
-[阿里笔试题20200429](https://blog.csdn.net/qq_36078715/article/details/105862925)
-
 [阿里笔试题2020](https://zhuanlan.zhihu.com/p/111333034)
 
 [阿里笔试题2020](https://zhuanlan.zhihu.com/p/111333034)
